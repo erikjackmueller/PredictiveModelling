@@ -38,3 +38,4 @@ for i in range(7):
     axs[i].grid()
     # axs[i].set_xlims((1, xs[-1]))
 axs[6].set_xlabel("times it happened total")
+
