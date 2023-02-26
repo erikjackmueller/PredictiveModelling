@@ -14,6 +14,7 @@ dh = q_vals[:, np.newaxis, 0]
 gens = q_vals[:, np.newaxis, 1]
 died_as = q_vals[:, np.newaxis, 2]
 
+
 # make hist plots from all quantitative data
 fig, (ax1, ax2, ax3) = plt.subplots(1, 3, figsize=(8, 3), sharey=True)
 ax1.set_ylabel("times it happened")
