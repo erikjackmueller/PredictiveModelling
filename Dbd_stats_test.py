@@ -4,6 +4,9 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 df = pd.read_csv("dbd_stats.csv")
+
+# drop invalid line number
+df = df.drop([26])
 a=1
 
 q_vals = df.iloc[:, [4, 9, 10]].values
@@ -33,9 +36,9 @@ names_list_bin = ["dcs", "suicides", "tunnels", "camps", "escapes", "eruptions",
 fig1, axs = plt.subplots(7, 1, figsize=(8, 12), sharex=True)
 for i in range(7):
     axs[i].set_xticks(xs)
-    axs[i].plot(xs, np.cumsum(bin_vals[:, i]))
+    axs[i].plot(xs, np.cumsum(bin_vals[:, i].astype(int)))
     axs[i].set_ylabel(names_list_bin[i])
     axs[i].grid()
     # axs[i].set_xlims((1, xs[-1]))
 axs[6].set_xlabel("times it happened total")
-
+plt.show()

@@ -14,3 +14,19 @@ number, side, killer, dc, dh, suicicde, tunnel, camp, escape, gens, died as, eru
 52, s, wesker, 0, 1, 0, 0, 0, 0, 4, 4, 0, 1, yamaoka, 4 
 53, s, blight, 0, 0, 0, 0, 0, 0, 2, 1, 1, 0, game, 3
 54, k, demo, 0, 1, 0, 0, 0, 0, 5, 5, 0, 1, mac milan, 3
+55, k, Slinger, 1, 2, 0, 0, 0, 0, 2, 4, 0, 1, game, 3
+56, s, artists, 0, 0, 1, 1, 0, 0, 2, 2, 0, 1, auto, 3
+57, s, clown, 0, 0, 1, 1, 0, 0, 4, 2, 1, 0, red forrest, 3
+58, k, wesker, 0, 0, 0, 0,0, 1, 5, 5, 0, 1, yamaoka, 3
+59, k, nurse, 0, 0, 0, 1, 0, 1, 5, 5, 0, 0, crotus, 1
+60, k, pyramid, 0, 0, 0, 0, 0, 0, 5, 4, 1, 1, earie, 4
+61, s, wesker, 0, 1, 0, 1, 0, 0, 5, 4, 0, 1, auto, 2
+62, s, pinhead, 0, 2, 0, 0, 1, 0, 5, 1, 0, 0, swamp, 4
+63, s, nurse, 0, 0, 0, 0, 0, 0, 3, 1, 0, 0, rpd, 4
+64, s, plague, 0, 1, 0, 0, 0, 0, 5, 3, 0, 0, ormond, 4
+65, s, bubba, 0, 0, 0, 0, 1, 1, 5, 5, 0, 0, game, 3
+66, s, wesker, 0, -, 0, 0, 0, -, -, -, 1, 1, game, -
+67, s, nurse, 0, 1, 0, 0, 0, 1, 5, 5, 1, 0, ormond, 1
+68, s, nurse, 0, 0, 0, 0, 0, 0, 2, 4, 0, 1, saloon, 2
+69, s, plague, 0, 0, 0, 0, 1, 1, 5, 5, 1, 0, rpd, 2
+70, s, billy, 1, 2, 0, 1, 0, 0, 2, 4, 0, 0, larries, 3
