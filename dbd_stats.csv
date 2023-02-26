@@ -1,4 +1,4 @@
-number, side, killer, dc, dh, suicicde, tunnel, camp, escape, gens, died as, eruption, painres, map, pointrank
+number,side,killer,dc,dh,suicicde,tunnel,camp,escape,gens,died as,eruption,painres,map,pointrank
 40, k, wesker, 0, 2, 1, 1, 0, 0, 4, 4, 1, 0, rpd, -
 41, k, knight, 0, 2, 0, 1, 0, 1, 5, 5, 0, 0, red forrest, -
 42, s, wesker, 0, 2, 0, 0, 0, 1, 5, 5, 0, 1, mc millan, -
@@ -11,7 +11,7 @@ number, side, killer, dc, dh, suicicde, tunnel, camp, escape, gens, died as, eru
 49, k, knight, 0, 0, 0, 1, 0, 0, 4, 4, 0, 1, garden of joy, -
 50, k, wesker, 0, 0, 0, 0, 0, 1, 4, 5, 1, 1, corn, -
 51, k, knight, 0, 0, 0, 1, 1, 0, 5, 4, 1, 0, borgo, -
-52, s, wesker, 0, 1, 0, 0, 0, 0, 4, 4, 0, 1, yamaoka, 4 
+52, s, wesker, 0, 1, 0, 0, 0, 0, 4, 4, 0, 1, yamaoka, 4
 53, s, blight, 0, 0, 0, 0, 0, 0, 2, 1, 1, 0, game, 3
 54, k, demo, 0, 1, 0, 0, 0, 0, 5, 5, 0, 1, mac milan, 3
 55, k, Slinger, 1, 2, 0, 0, 0, 0, 2, 4, 0, 1, game, 3
@@ -30,3 +30,13 @@ number, side, killer, dc, dh, suicicde, tunnel, camp, escape, gens, died as, eru
 68, s, nurse, 0, 0, 0, 0, 0, 0, 2, 4, 0, 1, saloon, 2
 69, s, plague, 0, 0, 0, 0, 1, 1, 5, 5, 1, 0, rpd, 2
 70, s, billy, 1, 2, 0, 1, 0, 0, 2, 4, 0, 0, larries, 3
+71, s, pyramid, 1, 2, 0, 1, 0, 0, 4, 4, 1, 1, yamaoka, 1
+72, k, huntress, 0, 1, 0, 0, 1, 1, 5, 5, 1, 0, rpd, 1
+73, k, bubba, 0, 2, 0, 0, 1, 1, 5, 5, 0, 0, red forrest, 1
+74, k, pyramid, 0, 2, 0, 0, 0, 1, 5, 5, 0, 0, crotus, 2
+75, k, blight, 0, 2, 0, 0, 0, 0, 5, 4, 0, 1, rpd, 2
+76, k, sadako, 0, 1, 0, 0, 1, 0, 5, 4, 0, 0, swamp, 2
+77, k, billy, 0, 1, 0, 0, 1, 0, 2, 1, 0, 0, game, 4
+78, k, nurse, 0, 0, 0, 0, 0, 1, 5, 5, 1, 0, midwich, 2
+79, k, pig, 0, 1, 0, 1, 0, 1, 5, 5, 0, 0, coldwind, 3
+80, k, knight, 0, 0, 0, 0, 0, 0, 3, 2, 0, 1, rpd, 3
